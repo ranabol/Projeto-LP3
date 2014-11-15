@@ -1,0 +1,10 @@
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\Modelos\bin\Release\Modelos.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\Modelos\bin\Release\Modelos.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\Modelos\obj\Release\Modelos.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\Modelos\obj\Release\Modelos.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\Modelos\obj\Release\Modelos.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\Modelos\bin\Release\Modelos.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\Modelos\bin\Release\Modelos.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\Modelos\obj\Release\Modelos.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\Modelos\obj\Release\Modelos.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\Modelos\obj\Release\Modelos.pdb

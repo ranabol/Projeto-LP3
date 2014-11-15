@@ -1,0 +1,5 @@
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\obj\x86\Release\UIWindos.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\obj\x86\Release\Loja.UIWindows.ClientesForm.resources
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\obj\x86\Release\Loja.UIWindos.LojaNet.resources
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\obj\x86\Release\UIWindos.Properties.Resources.resources
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\obj\x86\Release\UIWindos.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\Modelos\bin\Debug\Modelos.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\Modelos\obj\Debug\Modelos.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\Modelos\bin\Debug\Modelos.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\Modelos\obj\Debug\Modelos.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\Modelos\obj\Debug\Modelos.pdb

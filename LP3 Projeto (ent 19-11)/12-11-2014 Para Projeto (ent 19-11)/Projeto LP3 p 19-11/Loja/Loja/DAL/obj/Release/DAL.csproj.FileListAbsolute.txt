@@ -1,0 +1,14 @@
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\DAL\bin\Release\DAL.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\DAL\bin\Release\DAL.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\DAL\bin\Release\Modelos.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\DAL\bin\Release\Modelos.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\DAL\obj\Release\DAL.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Modelos\DAL\obj\Release\DAL.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\DAL\bin\Release\DAL.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\DAL\bin\Release\DAL.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\DAL\bin\Release\Modelos.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\DAL\bin\Release\Modelos.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\DAL\obj\Release\DAL.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\DAL\obj\Release\DAL.pdb

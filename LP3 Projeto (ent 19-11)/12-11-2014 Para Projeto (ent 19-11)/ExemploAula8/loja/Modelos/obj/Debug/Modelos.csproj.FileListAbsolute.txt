@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\camadas\loja\Modelos\bin\Debug\Modelos.dll
+C:\Users\Aluno\Desktop\camadas\loja\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Aluno\Desktop\camadas\loja\Modelos\obj\Debug\Modelos.dll
+C:\Users\Aluno\Desktop\camadas\loja\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Aluno\Desktop\camadas\loja\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\Modelos\bin\Debug\Modelos.dll
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\Modelos\obj\Debug\Modelos.dll
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\Modelos\bin\Debug\Modelos.dll
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\Modelos\obj\Debug\Modelos.dll
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\Modelos\obj\Debug\Modelos.pdb

@@ -1,0 +1,15 @@
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\obj\x86\Debug\UIWindos.csprojResolveAssemblyReference.cache
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\obj\x86\Debug\Loja.UIWindows.ClientesForm.resources
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\obj\x86\Debug\Loja.UIWindos.LojaNet.resources
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\obj\x86\Debug\UIWindos.Properties.Resources.resources
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\obj\x86\Debug\UIWindos.csproj.GenerateResource.Cache
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\bin\Debug\UIWindos.exe
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\bin\Debug\UIWindos.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\bin\Debug\BLL.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\bin\Debug\DAL.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\bin\Debug\Modelos.dll
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\bin\Debug\BLL.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\bin\Debug\DAL.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\bin\Debug\Modelos.pdb
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\obj\x86\Debug\UIWindos.exe
+C:\Users\Raul\Documents\ADS\LP3\Projeto 29-10\Loja\Loja\UIWindos\obj\x86\Debug\UIWindos.pdb

@@ -1,0 +1,39 @@
+C:\Users\Aluno\Desktop\camadas\loja\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Aluno\Desktop\camadas\loja\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Aluno\Desktop\camadas\loja\RegraNegocio\bin\Debug\AcessaDados.dll
+C:\Users\Aluno\Desktop\camadas\loja\RegraNegocio\bin\Debug\Modelos.dll
+C:\Users\Aluno\Desktop\camadas\loja\RegraNegocio\bin\Debug\mysql.data.dll
+C:\Users\Aluno\Desktop\camadas\loja\RegraNegocio\bin\Debug\AcessaDados.pdb
+C:\Users\Aluno\Desktop\camadas\loja\RegraNegocio\bin\Debug\Modelos.pdb
+C:\Users\Aluno\Desktop\camadas\loja\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\camadas\loja\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Aluno\Desktop\camadas\loja\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\RegraNegocio\bin\Debug\AcessaDados.dll
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\RegraNegocio\bin\Debug\Modelos.dll
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\RegraNegocio\bin\Debug\AcessaDados.pdb
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\RegraNegocio\bin\Debug\Modelos.pdb
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Aluno\Desktop\ExemploAula\loja\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Aluno\Desktop\ExemploAula\loja\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Aluno\Desktop\ExemploAula\loja\RegraNegocio\bin\Debug\AcessaDados.dll
+C:\Users\Aluno\Desktop\ExemploAula\loja\RegraNegocio\bin\Debug\Modelos.dll
+C:\Users\Aluno\Desktop\ExemploAula\loja\RegraNegocio\bin\Debug\mysql.data.dll
+C:\Users\Aluno\Desktop\ExemploAula\loja\RegraNegocio\bin\Debug\AcessaDados.pdb
+C:\Users\Aluno\Desktop\ExemploAula\loja\RegraNegocio\bin\Debug\Modelos.pdb
+C:\Users\Aluno\Desktop\ExemploAula\loja\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\ExemploAula\loja\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Aluno\Desktop\ExemploAula\loja\RegraNegocio\obj\Debug\RegraNegocio.pdb
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\RegraNegocio\bin\Debug\RegraNegocio.dll
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\RegraNegocio\bin\Debug\RegraNegocio.pdb
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\RegraNegocio\bin\Debug\AcessaDados.dll
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\RegraNegocio\bin\Debug\Modelos.dll
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\RegraNegocio\bin\Debug\mysql.data.dll
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\RegraNegocio\bin\Debug\AcessaDados.pdb
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\RegraNegocio\bin\Debug\Modelos.pdb
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\RegraNegocio\obj\Debug\RegraNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\RegraNegocio\obj\Debug\RegraNegocio.dll
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\RegraNegocio\obj\Debug\RegraNegocio.pdb

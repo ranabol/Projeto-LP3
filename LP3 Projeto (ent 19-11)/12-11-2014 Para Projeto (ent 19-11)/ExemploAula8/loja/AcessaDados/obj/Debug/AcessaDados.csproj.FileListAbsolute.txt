@@ -1,0 +1,31 @@
+C:\Users\Aluno\Desktop\camadas\loja\AcessaDados\bin\Debug\AcessaDados.dll
+C:\Users\Aluno\Desktop\camadas\loja\AcessaDados\bin\Debug\AcessaDados.pdb
+C:\Users\Aluno\Desktop\camadas\loja\AcessaDados\bin\Debug\Modelos.dll
+C:\Users\Aluno\Desktop\camadas\loja\AcessaDados\bin\Debug\mysql.data.dll
+C:\Users\Aluno\Desktop\camadas\loja\AcessaDados\bin\Debug\Modelos.pdb
+C:\Users\Aluno\Desktop\camadas\loja\AcessaDados\obj\Debug\AcessaDados.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\camadas\loja\AcessaDados\obj\Debug\AcessaDados.dll
+C:\Users\Aluno\Desktop\camadas\loja\AcessaDados\obj\Debug\AcessaDados.pdb
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\AcessaDados\bin\Debug\AcessaDados.dll
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\AcessaDados\bin\Debug\AcessaDados.pdb
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\AcessaDados\bin\Debug\Modelos.dll
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\AcessaDados\bin\Debug\Modelos.pdb
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\AcessaDados\obj\Debug\AcessaDados.csprojResolveAssemblyReference.cache
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\AcessaDados\obj\Debug\AcessaDados.dll
+C:\Users\Informatica\Documents\IFSP\IFSP2014-2s\Aulas\LP3\ExercAula8\Loja2-ExemplosCamadascom tabClientes\Leonardo\loja\AcessaDados\obj\Debug\AcessaDados.pdb
+C:\Users\Aluno\Desktop\ExemploAula\loja\AcessaDados\bin\Debug\AcessaDados.dll
+C:\Users\Aluno\Desktop\ExemploAula\loja\AcessaDados\bin\Debug\AcessaDados.pdb
+C:\Users\Aluno\Desktop\ExemploAula\loja\AcessaDados\bin\Debug\Modelos.dll
+C:\Users\Aluno\Desktop\ExemploAula\loja\AcessaDados\bin\Debug\mysql.data.dll
+C:\Users\Aluno\Desktop\ExemploAula\loja\AcessaDados\bin\Debug\Modelos.pdb
+C:\Users\Aluno\Desktop\ExemploAula\loja\AcessaDados\obj\Debug\AcessaDados.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\ExemploAula\loja\AcessaDados\obj\Debug\AcessaDados.dll
+C:\Users\Aluno\Desktop\ExemploAula\loja\AcessaDados\obj\Debug\AcessaDados.pdb
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\AcessaDados\bin\Debug\AcessaDados.dll
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\AcessaDados\bin\Debug\AcessaDados.pdb
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\AcessaDados\bin\Debug\Modelos.dll
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\AcessaDados\bin\Debug\mysql.data.dll
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\AcessaDados\bin\Debug\Modelos.pdb
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\AcessaDados\obj\Debug\AcessaDados.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\AcessaDados\obj\Debug\AcessaDados.dll
+C:\Users\Aluno\Desktop\LP3\ExercAula8\ExemploAula8\loja\AcessaDados\obj\Debug\AcessaDados.pdb
